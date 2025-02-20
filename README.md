@@ -36,10 +36,16 @@ Note that these benchmarks are the versions given to participants in the user st
 If you use these benchmarks in your research, please cite our paper:
 
 ```bibtex
-@article{li2024translating,
-  title={Translating c to rust: Lessons from a user study},
-  author={Li, Ruishi and Wang, Bo and Li, Tianyu and Saxena, Prateek and Kundu, Ashish},
-  journal={arXiv preprint arXiv:2411.14174},
-  year={2024}
+@inproceedings{li_translating_2025,
+	address = {San Diego, CA, USA},
+	title = {Translating {C} {To} {Rust}: {Lessons} from a {User} {Study}},
+	isbn = {9798989437283},
+	url = {https://www.ndss-symposium.org/wp-content/uploads/2025-1407-paper.pdf},
+	doi = {10.14722/ndss.2025.241407},
+	language = {en},
+	booktitle = {Proceedings 2025 {Network} and {Distributed} {System} {Security} {Symposium}},
+	publisher = {Internet Society},
+	author = {Li, Ruishi and Wang, Bo and Li, Tianyu and Saxena, Prateek and Kundu, Ashish},
+	year = {2025},
 }
 ```
